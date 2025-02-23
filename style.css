@@ -222,8 +222,7 @@ section {
 }
 
 h1.tools-h1 {
-    position: relative;
-    left: 125px;
+    display: none;
 }
 
 .tools-icons {
