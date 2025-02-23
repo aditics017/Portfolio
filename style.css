@@ -232,7 +232,7 @@ h1.tools-h1 {
     gap: 30px;
     position: relative;
     left: 120px;
-    bottom: 35px;
+    bottom: 115px;
 }
 
 .tools-icons a img {
@@ -725,7 +725,7 @@ footer .social a {
     }
 
     .home-circle-1 {
-        bottom: 5rem;
+        bottom: 15rem;
         width: 35vw;
         height: 35vw;
     }
@@ -740,6 +740,11 @@ footer .social a {
 @media (max-width: 991px) {
     header {
         padding: 2rem 3%;
+    }
+    .home-circle-2 {
+        top: 15rem;
+        width: 30vw;
+        height: 30vw;
     }
 
     section {
@@ -795,7 +800,7 @@ footer .social a {
     .home-circle-1 { 
         width: 45vw; 
         height: 45vw; 
-        bottom: 42rem; 
+        bottom: 45rem; 
     }
 
     .home-circle-2 { 
@@ -843,8 +848,10 @@ footer .social a {
         margin: 1rem; 
     }
     h1.tools-h1 {
+        display: inline;
         position: relative;
         left: 25px;
+        bottom: 15px;
     }
 
     .tools-icons {
@@ -854,7 +861,7 @@ footer .social a {
         gap: 30px;
         position: relative;
         left: 20px;
-        bottom: 35px;
+        bottom: 25px;
     }
 
     .services h2 {
